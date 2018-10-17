@@ -1,7 +1,7 @@
 package io.github.nullifythis.android.app.navigable;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
 
 public class Navigate {
 
